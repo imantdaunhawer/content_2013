@@ -5,7 +5,6 @@ from itertools import combinations, permutations
 
 from scipy.stats.stats import pearsonr
 
-
 class RestaurantSimilarities(MRJob):
 
     def steps(self):

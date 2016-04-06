@@ -1,0 +1,68 @@
+{
+  "id": 9818,
+  "title": "Gone With the Wind",
+  "year": 1939,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Classics"
+  ],
+  "mpaa_rating": "G",
+  "runtime": 222,
+  "critics_consensus": "Filmed and presented on a scale not seen in modern productions, Gone with the Wind is, if not the definitive Hollywood film, then certainly near the top of the list.",
+  "release_dates": {
+    "theater": "1939-12-15",
+    "dvd": "2000-03-07"
+  },
+  "ratings": {
+    "critics_rating": "Certified Fresh",
+    "critics_score": 95,
+    "audience_rating": "Upright",
+    "audience_score": 91
+  },
+  "synopsis": "",
+  "posters": {
+    "thumbnail": "http://content9.flixster.com/movie/10/93/18/10931807_tmb.jpg",
+    "profile": "http://content9.flixster.com/movie/10/93/18/10931807_tmb.jpg",
+    "detailed": "http://content9.flixster.com/movie/10/93/18/10931807_tmb.jpg",
+    "original": "http://content9.flixster.com/movie/10/93/18/10931807_tmb.jpg"
+  },
+  "abridged_cast": [
+    {
+      "name": "Clark Gable",
+      "characters": ["Rhett Butler"]
+    },
+    {
+      "name": "Vivien Leigh",
+      "characters": ["Scarlett O'Hara"]
+    },
+    {
+      "name": "Leslie Howard",
+      "characters": ["Ashley Wilkes"]
+    },
+    {
+      "name": "Olivia de Havilland",
+      "characters": ["Melanie Hamilton"]
+    },
+    {
+      "name": "Hattie McDaniel",
+      "characters": ["Mammy"]
+    }
+  ],
+  "abridged_directors": [
+    {"name": "George Cukor"},
+    {"name": "Sam Wood"}
+  ],
+  "studio": "New Line Cinema",
+  "alternate_ids": {"imdb": "0031381"},
+  "links": {
+    "self": "http://api.rottentomatoes.com/api/public/v1.0/movie_alias.json?type=imdb&id=0031381",
+    "alternate": "http://www.rottentomatoes.com/m/gone_with_the_wind/",
+    "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/9818/cast.json",
+    "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/9818/clips.json",
+    "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/9818/reviews.json",
+    "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/9818/similar.json",
+    "canonical": "http://api.rottentomatoes.com/api/public/v1.0/movies/9818.json"
+  },
+  "link_template": "http://api.rottentomatoes.com/api/public/v1.0/movie_alias.json?type=imdb&id={alias-id}"
+}
